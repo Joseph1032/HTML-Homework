@@ -1,0 +1,44 @@
+h1 {
+	color: lightblue;
+	font-family: Verdana;
+}
+
+h2 {
+	color: skyblue;
+	font-family: Verdana;
+}
+
+#work {
+	font-family: Verdana;
+	color: lightgreen;
+}
+
+h3 {
+	color: skyblue;
+	font-family: Verdana;
+}
+
+.design {
+	border: 3px solid;
+	border-color: maroon;
+	text-align: center;
+}
+
+#learn {
+	font-family: Verdana;
+	font-size: 15px;
+
+	height: 20px;	
+	width: 300px;
+	text-align: center;
+}
+
+#expectation {
+	color: black;
+	border: 2px solid;
+	border-color: purple;
+	background-color: skyblue;
+	width: 300px;
+	border-style: dotted;
+}
+
